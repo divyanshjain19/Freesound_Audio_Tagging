@@ -1,5 +1,6 @@
 # Freesound_Audio_Tagging
 This case study is based on the Kaggle Competition: https://www.kaggle.com/c/freesound-audio-tagging-2019
+Detailed Blog: https://divyanshjain11.medium.com/freesound-audio-tagging-recognizing-sounds-of-various-natures-bd8df75d5d59
 
 The code files are:
 | Code File | Description  | 
